@@ -14,7 +14,7 @@ Chingu Voyage Project
 
 1. Install Serverless. Follow these instructions. Link: https://serverless.com/framework/docs/providers/aws/guide/installation/
 
-2. To connect to AWS please follow this. Please note there are several ways to this. Link:
+2. To connect to AWS please follow this. Please note there are several ways to do this. Link:
 https://serverless.com/framework/docs/providers/aws/guide/credentials/
 
 3. Step 2 will prompt you for AWS Credentials - Access Key ID and Secret Access Key. This can be accessed by your AWS administrator or you can setup your own AWS account and create these credentials under the AWS Console -> IAM  
